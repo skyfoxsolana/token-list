@@ -3,11 +3,11 @@
   "address": "A66xQy5uhECcKTUiFhLwtPHKKjLnPzfiLiwgM3kNRVGt",
   "symbol": "SKYFOX",
   "name": "SKYFOX",
-  "decimals": 9,  // 
-  "logoURI": "https://s11.aconvert.com/convert/p3r68-cdx67/55lrm-2vthx.webp",  // 
+  "decimals": 9,   
+  "logoURI": "https://s11.aconvert.com/convert/p3r68-cdx67/55lrm-2vthx.webp",  
   "tags": ["community", "utility-token"],
   "extensions": {
-    "website": "https://theskyfox.xyz",  //
-    "twitter": "https://x.com/holyfox_solana"  // 
+    "website": "https://theskyfox.xyz",  
+    "twitter": "https://x.com/holyfox_solana" 
   }
 }
